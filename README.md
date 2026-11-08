@@ -6,7 +6,7 @@ Stop being lazy click here [•~•](https://lazzzy.vercel.app)
 
 ## Demo
 
-<video src="https://github.com/user-attachments/assets/2382cd5e-342d-4e18-869d-0761831b751b" autoplay loop muted playsinline controls width="100%"></video>
+<video src="https://github.com/frostyfoxie/lazzzy-public/blob/be4335b35e144739aa4bf0700148a5f487cadd6d/demo.mp4" autoplay loop muted playsinline controls width="100%"></video>
 
 ## What is Lazzzy?
 
