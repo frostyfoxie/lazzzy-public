@@ -2,7 +2,7 @@ Lazzzy is your personal, distraction-free digital desk designed to make studying
 
 Here is an example a page you can generate using AI or make it manually too.
 
-Stop being lazy click here (•~•)[https://lazzzy.vercel.app]
+Stop being lazy click here [•~•](https://lazzzy.vercel.app)
 
 **What is Lazzzy?**
 
